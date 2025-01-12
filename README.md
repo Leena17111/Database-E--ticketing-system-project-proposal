@@ -1,0 +1,2 @@
+# Overview
+This project proposal introduces a database-driven ticketing system designed to address the inefficiencies of the traditional email-based system used for managing technical support requests within UTM's e-learning platform. The proposed system streamlines ticket handling, enhances collaboration among technical support teams, and provides real-time tracking and analytics for users and administrators.
